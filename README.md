@@ -118,11 +118,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ✨ Contributors
 - **Vignesh** – Code & Hardware Integration  
-- **Team AutoStrider** – Circuit Design, Testing & Simulation  
-- **Amrita Vishwa Vidyapeetham** – Academic Guidance  
+- **Team AutoStrider** – Circuit Design, Testing
 
 ---
-
-<p align="center">
-  Made with ❤️ by the AutoStrider Team
-</p>
