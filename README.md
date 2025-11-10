@@ -115,9 +115,3 @@ Complete Arduino sketch available in [`code/Autostrider.ino`](code/Autostrider.i
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## ✨ Contributors
-- **Vignesh** – Code & Hardware Integration  
-- **Team AutoStrider** – Circuit Design, Testing
-
----
